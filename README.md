@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Es mi primer repositorio creado con el modulo 2 de Henry
+Este es la primera edicion de texto del repositorio que hago
+y me sale bastante bien je
+
